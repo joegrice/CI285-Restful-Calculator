@@ -1,0 +1,7 @@
+<h1.jumbotron>
+  Welcome to the RestFulCalculator!
+
+<p> To ADD please go to /add/NUM1/NUM2 (Where NUM1 and NUM2 are numbers of your choice)
+<p> To SUBTRACT please go to /sub/NUM1/NUM2 (Where NUM1 and NUM2 are numbers of your choice)
+<p> To MULTIPLY please go to /mul/NUM1/NUM2 (Where NUM1 and NUM2 are numbers of your choice)
+<p> To DIVIDE please go to /div/NUM1/NUM2 (Where NUM1 and NUM2 are numbers of your choice)
